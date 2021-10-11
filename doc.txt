@@ -1,0 +1,4 @@
+- Muốn combine 1 file ts sang js thì dùng tsc + tên file ts (có thể viết đuôi .ts sau hoặc không cũng được)
+- Để không phải mỗi lần code xong rồi dùng lệnh tsc + tên file ts mới combine sang js được thì dùng lệnh tsc -w + tên file ts (
+có thể viết đuôi .ts sau hoặc không cũng được) nó sẽ lắng nghe sự thay đổi của file ts và tự động combine sang js
+
